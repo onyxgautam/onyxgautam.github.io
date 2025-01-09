@@ -53,6 +53,7 @@ body {
 }
 
 img.profile-pic {
+    max-width: 90%;
     vertical-align: middle;
 }
 
