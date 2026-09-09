@@ -34,7 +34,7 @@ body {
 
 .container {
 	margin: 0 auto;
-	max-width: 760px;
+	max-width: 768px;
 	padding: 0 10px 25px;
 	width: 100%;
 	display: grid;
@@ -63,8 +63,6 @@ img.profile-pic {
 		grid-template-rows: minmax(40px, auto) minmax(30px, auto) auto auto;
 		grid-template-areas: "header" "profile" "profile-text" "main"
 	}
-
-  .helper {}
 }
 
 .container > div {
